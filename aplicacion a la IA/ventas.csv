@@ -1,0 +1,15 @@
+Producto,Categoria,Region,Ventas,Fecha
+Laptop,Electronica,Norte,1200,2023-01-15
+Teclado,Electronica,Sur,75,2023-01-18
+Mouse,Electronica,Este,25,2023-01-19
+Monitor,Electronica,Oeste,250,2023-01-20
+Silla Ergonomica,Muebles,Norte,150,2023-01-22
+Escritorio,Muebles,Sur,300,2023-01-25
+Lampara,Muebles,Este,45,2023-01-26
+Webcam,Electronica,Oeste,60,2023-01-28
+Auriculares,Electronica,Norte,90,2023-02-01
+Mesa Auxiliar,Muebles,Sur,80,2023-02-03
+Teclado Mecanico,Electronica,Este,120,2023-02-05
+Monitor Curvo,Electronica,Oeste,400,2023-02-07
+Archivador,Muebles,Norte,70,2023-02-09
+Smartphone,Electronica,Sur,800,2023-02-12
